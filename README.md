@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Auto Detailing Bushi — Landing Page
 
 A premium, single-page landing page for **Auto Detailing Bushi**, an
@@ -182,3 +183,6 @@ is taken directly from information supplied for this project. Service
 categories are presented as editable, general offerings rather than a
 guaranteed price list — update `src/data/business.js` as the business's
 actual services or details change.
+=======
+# auto-detailing-bushi
+>>>>>>> ed4f5b89d17270fc70619fd6c15c2fa07fa9434a
